@@ -1,0 +1,5 @@
+James Doe is a man who lives in Toronto. 
+James owns a Toyota Venza car and another Mercedes Benz.
+He is a software engineer who works for a Bank.
+He is a father of two children.
+He is a born in January 1965.

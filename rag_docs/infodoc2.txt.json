@@ -1,0 +1,10 @@
+{
+    "source": "rag_docs/infodoc2.txt",
+    "document_type": "facts",
+    "category": "movie",
+    "subject": "The Amateur",
+    "version": "1.0",
+    "author": "James Doe",
+    "last_updated": "2025-08-01",
+    "language": "en"
+  }

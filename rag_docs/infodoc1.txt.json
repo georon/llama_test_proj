@@ -1,0 +1,10 @@
+{
+    "source": "rag_docs/infodoc1.txt",
+    "document_type": "facts",
+    "category": "personal",
+    "subject": "James Doe",
+    "version": "1.2",
+    "author": "James Doe",
+    "last_updated": "2025-08-01",
+    "language": "en"
+  }
